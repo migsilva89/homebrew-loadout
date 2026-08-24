@@ -2,8 +2,7 @@ cask "loadout" do
   version "0.3.0"
   sha256 "a0cf4a9d14d7e63de33ca2a252bc3cfbac95476677819fed6c2573bbb50fa4bc"
 
-  url "https://github.com/migsilva89/loadout/releases/download/v#{version}/Loadout-#{version}.dmg",
-      verified: "github.com/migsilva89/loadout/"
+  url "https://github.com/migsilva89/loadout/releases/download/v#{version}/Loadout-#{version}.dmg"
   name "Loadout"
   desc "Shows and manages the skills, commands, subagents and MCP servers of AI CLIs"
   homepage "https://loadout.migsilva.dev/"
