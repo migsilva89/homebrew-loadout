@@ -1,6 +1,6 @@
 cask "loadout" do
-  version "0.3.4"
-  sha256 "82e130f11bf7320d5e30740f386e74fe15c2587ec67ef7c39ae0625d2e189f8e"
+  version "0.4.1"
+  sha256 "017bcefac4afe1eddce92abfbf10ee9431880a0f3edbcb2bdedc342ba2ce8109"
 
   url "https://github.com/migsilva89/loadout/releases/download/v#{version}/Loadout-#{version}.dmg"
   name "Loadout"
